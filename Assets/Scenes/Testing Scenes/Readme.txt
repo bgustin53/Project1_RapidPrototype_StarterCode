@@ -1,0 +1,1 @@
+This folder is a place for team members to place testing scenes.  Naming criteria: Test_SceneDescription_Author
